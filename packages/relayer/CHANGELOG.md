@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/taikoxyz/taiko-mono/compare/relayer-v0.2.1...relayer-v0.2.2) (2023-03-10)
+
+
+### Bug Fixes
+
+* **relayer:** estimate gas for tx, set gas to 2.5mil if not estimatable. works now. ([#13271](https://github.com/taikoxyz/taiko-mono/issues/13271)) ([3913ca5](https://github.com/taikoxyz/taiko-mono/commit/3913ca52242913dfb9502488f0a5558724f9ef2b))
+
 ## [0.2.1](https://github.com/taikoxyz/taiko-mono/compare/relayer-v0.2.0...relayer-v0.2.1) (2023-03-01)
 
 

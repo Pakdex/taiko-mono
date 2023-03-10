@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/taikoxyz/taiko-mono/compare/website-v0.4.0...website-v0.4.1) (2023-03-10)
+
+
+### Bug Fixes
+
+* **website,bridge-ui:** broken docs link + remove deprecated note in docs ([#13259](https://github.com/taikoxyz/taiko-mono/issues/13259)) ([912c155](https://github.com/taikoxyz/taiko-mono/commit/912c15595d7b0e3e2b4ec62fbcebeaf9dbc9db66))
+
 ## [0.4.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.3.0...website-v0.4.0) (2023-03-01)
 
 
